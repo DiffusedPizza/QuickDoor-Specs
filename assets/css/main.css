@@ -23,7 +23,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	border-radius: 10px;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -97,7 +99,8 @@ input, select, textarea {
 	body {
 		/* background: #f4f4f4; */
 		/* background: #DEE5E5; */
-		background: #d8475a;
+		/* background: #d8475a; */
+		background: #ab162b;
 	}
 
 		body.is-preload-0 *, body.is-preload-0 *:before, body.is-preload-0 *:after {
