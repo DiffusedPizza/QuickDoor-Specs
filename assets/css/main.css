@@ -96,7 +96,8 @@ input, select, textarea {
 
 	body {
 		/* background: #f4f4f4; */
-		background: #DEE5E5;
+		/* background: #DEE5E5; */
+		background: #d8475a;
 	}
 
 		body.is-preload-0 *, body.is-preload-0 *:before, body.is-preload-0 *:after {
@@ -111,6 +112,10 @@ input, select, textarea {
 		}
 
 /* Type */
+
+		#portfolioLink:hover {
+				color: #0D1B1E !important;
+		}
 
 	body, input, select, textarea {
 		color: #444;
